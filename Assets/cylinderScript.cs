@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class cylinderScript : MonoBehaviour
 {
-    public int cylinderValue = 66600;
+    public int cylinderValue = 66611;
 
     // Start is called before the first frame update
     void Start()
